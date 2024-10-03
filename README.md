@@ -2,7 +2,7 @@
 
 🎓 Jeg har en bachelor grad i ⭐️**Bachelorprogram i informatikk: Datateknologi**⭐️ og tar nå en master i ⭐️**Masterprogram i informatikk: maskinlæring**⭐️
 
-💼 Erfaring innen utvikling med teknologier som Python, Typescript, React, Electron, og maskinlæringsmodeller. I tillegg har jeg jobbet som utvikler på prosjekter som møtereferatleser med TC39.
+💼 Erfaring innen utvikling med teknologier som Typescript, Python, java, C, Haskell, React, Electron, og mye mer. Det har også begynt å vokse en maskinlæringsutvikler i meg.
 
 🔭 For tiden jobber jeg som fagkonsulent i multiprogrammering.
 
