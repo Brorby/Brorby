@@ -6,8 +6,7 @@
 
 🔭 For tiden jobber jeg som fagkonsulent i multiprogrammering.
 
-🌱 På fritiden dykker jeg inn i nye teknologier og utvikler kreative løsninger.
-- har nettopp kjøpt meg en raspberry pi, så bare vent og se hva slags prosjekter som dukker opp 👀
+🌱 På fritiden dykker jeg inn i nye teknologier og utvikler kreative løsninger. har nettopp kjøpt meg en raspberry pi, så bare vent og se hva slags prosjekter som dukker opp 👀
 
 📫 Kontakt meg på [magnus.sbr12@gmail.com](mailto:magnus.sbr12@gmail.com) eller sjekk ut mine prosjekter her på GitHub.
 
